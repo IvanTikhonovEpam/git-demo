@@ -5,8 +5,4 @@ newline
 qwerty
 poiuyt
 ----------------------
-<<<<<<< HEAD
-new shiiiti
-=======
->>>>>>> parent of 0e0b463 (Revert "delete from remote repositary")
 
